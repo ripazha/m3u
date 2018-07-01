@@ -1,0 +1,12 @@
+{
+    "name": "urvin/m3u",
+    "description": "M3u playlists manipulation (parse & create) class.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Yuriy Gorbachev",
+            "email": "urvindt@gmail.com"
+        }
+    ],
+    "require": {}
+}
